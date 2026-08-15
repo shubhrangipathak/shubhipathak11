@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Game projects**
 
-- 🌱 I’m currently learning **Flutter, ML, MongoDb**
+- 🌱 I’m currently learning **Kubernetes, Looker, ML, MongoDb, Pinecone**
 
-- 👯 I’m looking to collaborate on **Machine Learning based projects**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhrangipathak](https://github.com/shubhrangipathak)
 
@@ -20,9 +20,7 @@
 
 - ⚡ Fun fact **There's no place like 127.0.0.1**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
